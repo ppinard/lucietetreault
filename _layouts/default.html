@@ -1,14 +1,19 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-  <head>
+
+<head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
-    <title>{{ page.title }} - {{ site.title }}</title>
+    <title>{{ page.title }} {% if page.subtitle %}- {{ page.subtitle}}{% endif %} - {{ site.title }}</title>
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
-  </head>
-  <body>
+</head>
+
+<body>
     {% include navbar.html %}
-    {{ content }}
+    <main role="main" class="container mt-3">
+        {{ content }}
+    </main>
     {% include footer.html %}
-  </body>
+</body>
+
 </html>

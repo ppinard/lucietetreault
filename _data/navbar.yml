@@ -1,4 +1,16 @@
-- name: Home
+- name: Accueil
   link: /
-- name: About
-  link: /about
+- name: Curriculum vitae
+  link: /curriculum-vitae/
+- name: Gymnastique Holistique
+  link: /gymnastique-holistique/
+- name: Formation professionnelle
+  link: /formation-professionnelle/
+- name: Éducation somatique
+  link: /education-somatique/
+- name: Services offerts
+  link: /services-offerts/
+- name: Liens
+  link: /liens/
+- name: Contact
+  link: /contact/

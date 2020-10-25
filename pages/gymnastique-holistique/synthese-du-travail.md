@@ -1,0 +1,51 @@
+---
+layout: default
+title: Synthèse du travail
+subtitle: Gymnastique holistique
+permalink: /gymnastique-holistique/synthese-du-travail/
+navbar: gymnastique-holistique
+---
+
+## {{ page.title }}
+
+**Extraits du livre du Docteur L. Ehrenfried : «La Gymnastique Holistique, De l’éducation du corps à l’équilibre de l’esprit. » 1956, Éditions Aubier- Montaigne.** **Écrite par Marie Jo Guichard, héritière de la transmission du travail du Docteur Lily Ehrenfried et parue dans l’Annuaire de l’Association des Élèves du Dr Ehrenfried et des Praticiens en Gymnastique Holistique (AEDEPGH) en 1986.** Les directives majeures de notre travail, comportement, respiration, problèmes de la tonicité, tendance vers l’équilibre, doivent être décrites les unes après les autres; mais au cours du travail pratique, elles doivent nécessairement être considérées toutes à la fois, car elles se conditionnent l’une l’autre et ne sauraient progresser isolément. Rappelons que notre méthode vise à améliorer toutes les fonctions du corps. Le comportement d’un être se manifestant à nous dans tous les détails de son aspect moteur, le point de départ de notre action n’aura qu’une importance secondaire.
+
+### La respiration
+
+<img src="/assets/images/gymhol4.jpg" alt="" class="float-none float-md-left mr-md-3">
+
+En commençant par proposer à notre élève un geste quelconque, un mouvement inhabituel, nous surveillons sa respiration : notre attention se portera tout d’abord sur son rythme respiratoire, puis sur les rapports de sa respiration avec son travail musculaire. Le rythme respiratoire est à trois temps : inspiration, expiration, pause ; le moment de l’inspiration ne doit jamais être fixé consciemment, volontairement. Donc il ne s’agit pas de forcer une inspiration profonde, il faut plutôt attendre que le corps manifeste un besoin d’air. Le fait décisif ne consiste pas en ce qu’il respire « profondément » ni en ce qu’il « utilise son diaphragme », mais dans la qualité de cette respiration; c’est-à-dire non pas en ce qu’il fait, mais en ce qu’il laisse faire, en ce qu’il subit. Ce n’est pas un « plus » d’activité qu’on lui demande, mais un « moins », non une tension accrue, mais une détente. Par des questions ou des indications placées au moment approprié nous cherchons à amener l’élève à ressentir, à percevoir ce qui se passe en lui. Par la perception, ses expériences deviennent conscientes: elles sont reconnues, comprises intellectuellement. Il trouve son rythme respiratoire individuel, d’abord au repos, puis dans la vie courante. C’est alors qu’il doit apprendre à régler son travail musculaire d’après ce rythme, et non respirer selon un rythme imposé par le travail. Plus tard seulement, lorsque le rythme à trois temps sera devenu pour lui une seconde nature, c’est–à–dire lorsque après une expiration aussi complète que possible suivie d’une pause nous observerons une nouvelle inspiration, non-forcée, l’élève sera en pleine mesure de modifier, d’adapter ce rythme selon les besoins du moment.
+
+### L'équilibre
+
+<img src="/assets/images/gymhol7.jpg" alt="" class="float-none float-md-right ml-md-3">
+
+Le corps humain tout entier est en équilibre instable : le quadrilatère de sustentation est infime par rapport à la hauteur et le centre de gravité est loin de la base. La tête notamment – corps rond d’un poids relativement élevé, supportée par deux points d’appui mobiles très petits, le tout très loin du sol, leur base stable – se trouve en équilibre instable permanent. C’est l’ancienne lutte contre la pesanteur, l’attraction terrestre qui se joue ici: l’être humain cherche à se redresser et la terre l’attire sans qu’il sache prendre appui sur elle. Le problème énoncé ici se complique encore du fait qu’il s’agit d’un corps dont les différentes parties les unes par rapport aux autres ont des positions mobiles par toutes leurs articulations. L’être humain, à défaut de trouver l’équilibre correspondant à sa structure, cherche à réduire ses difficultés en se raidissant, diminuant ainsi ses possibilités de déviation et par cela même de mobilité. Le système des régulations et compensations de l’équilibre physique est d’une extrême subtilité et fonctionne à la moindre alerte. Une étroite interdépendance règle les compensations de chaque mouvement si petit soit-il. Si ce jeu des compensations est déréglé, il entraîne toute une suite de défectuosités qui exigeront une dépense plus grande que ne le ferait le fonctionnement normal; d’où fatigue, détérioration prématurée du jeu mécanique dans son ensemble. Il s’agira donc dès le début du travail de cerner en quoi consiste le déséquilibre et quel est le facteur primordial qui a déterminé l’apparition successive de tous les autres. Toutefois, comme toute déviation de l’équilibre aura des répercussions sur tout le corps, nous pourrons commencer notre travail par n’importe quel facteur; chaque réussite partielle donnera tout de suite une amélioration générale aussi bien de l’équilibre que du fonctionnement de l’ensemble tant il est vrai que le corps s’adapte avec une rapidité étonnante aux conditions de l’amélioration motrice qui lui sont offertes. En effet le sens de l’équilibre n’est pas « perdu » mais seulement atrophié: n’ayant point été sollicité, il a succombé dans la lutte continue contre l’attraction terrestre. Nous devons le sortir de sa torpeur en lui donnant une tâche à accomplir qui le forcera à une adaptation immédiate, spontanée. Nous ne chercherons donc pas l’attitude « correcte » raide, mais plutôt une extrême élasticité, élasticité beaucoup plus grande que celle que nous pouvons obtenir en se servant de la volonté, ou en exécutant des exercices de culture physique.
+
+### L’équilibre
+
+<img src="/assets/images/gymhol21.jpg" alt="" class="float-none float-md-left mr-md-3">
+
+Nous pouvons par exemple poser un objet léger sur la tête de notre « déséquilibré », non seulement il localisera mieux ainsi le sommet de la tête en y sentant un poids étranger, mais encore il constatera que le jeu le plus subtil de toutes les fibres musculaires est nécessaire au dos, au cou, à la taille, dans tout le reste du corps pour que l’objet posé sur le sommet du crâne puisse être gardé dans son équilibre instable. Chaque mouvement respiratoire change les conditions statiques et le jeu des muscles doit y répondre. Ainsi s’établit une motricité naturelle, harmonieuse : on se sent « d’aplomb ». L’élasticité permet une adaptation continuelle aux besoins du moment ce qui facilitera l’alternance des différents groupes de muscles et par là même l’harmonisation de la tonicité de toute la musculature.
+
+### La tonicité (dystonie- détente)
+
+<img src="/assets/images/gymhol20.jpg" alt="" class="float-none float-md-left mr-md-3">
+
+Un troisième point d’importance générale dans notre travail concerne l’état moyen de la tension musculaire. Le tissu musculaire vivant possède à l’état de repos une certaine tonicité dite résiduelle qui ne s’arrête qu’avec la vie elle-même, indiquant que le muscle est toujours prêt au travail. Or, nous pouvons remarquer que, sur de nombreux individus, même en dehors de toute intention d’activité musculaire, certaines parties de leur musculature se trouvent en contraction permanente, tandis que certaines autres, mal développées, ont une tonicité en–dessous du taux habituel, même dans l’effort. Dans tous ces cas, nous ne parlerons plus d’hyper ou d’hypotonicité mais plutôt de dystonie pour indiquer qu’il s’agit d’un dérèglement de la tonicité.
+
+### La tonicité (dystonie- détente)
+
+<img src="/assets/images/gymhol22.jpg" alt="" class="float-none float-md-right ml-md-3">
+
+La dystonie musculaire peut provenir de deux sources très différentes. Parfois elle est indispensable pour maintenir une statique défectueuse, les contractions permanentes compensant une déficience de l’équilibre physique. L’autre source coule à des profondeurs telles que nous ne pouvons les atteindre directement. Elles touchent le fin fond de la personnalité, là où habitent les causes irrationnelles qui décident de l’établissement de nos commandes nerveuses et de notre comportement. En nous intéressant à la dystonie musculaire, nous touchons à son équivalent au domaine psychique. De même qu’angoisse et blocage de la respiration vont toujours de pair, tout spasme musculaire reflète un état d’anxiété tandis que toute laxité musculaire peut être un refus d’entrer en action. Pour égaliser ces « hauts » et ces « bas », nous emploierons d’ailleurs un procédé analogue à celui qui nous a servi dans la rééducation respiratoire : l’élève doit d’abord devenir sensible à ce qui se passe en lui, à ressentir son comportement musculaire dans ses détails, mais en ne cédant pas au désir de vouloir y corriger immédiatement quelque chose. Il deviendra ainsi conscient des mouvements qui, habituellement, se déroulent en réflexes. L’effort musculaire qu’il fournit pour exécuter tel ou tel geste dépasse-t-il de beaucoup ce qui est nécessaire? Les muscles restent-ils crispés, tendus après la fin de l’effort? Ou retournent- ils à l’état de repos et sont- ils dispos pour une nouvelle activité?
+
+### De l'éducation du corps
+
+Cette méthode permet de briser le cercle vicieux des habitudes physiques irrationnelles et du fonctionnement défectueux qui en résulte. Lorsque nous essayons d’entreprendre une rééducation intégrale du comportement physique, nous ne faisons pas appel à la pensée consciente, ni aux mouvements exécutés volontairement.
+
+### De l'éducation du corps
+
+<img src="/assets/images/gymhol6.jpg" alt="" class="float-none float-md-right ml-md-3">
+
+L’essentiel est ici l’acquisition d’un plus juste fonctionnement, indépendant de la volonté motrice consciente; l’élève devenu « sensible » recherche et retrouve les changements obtenus, synonymes pour lui de confort et de bien- être. Ce nouveau mode de fonctionnement, apparaissant de façon inattendue, surprend l’élève, car il lui apporte plusieurs avantages: il lui permet un usage plus rationnel des muscles et des organes internes, source de soulagement, et une économie plus grande de ses forces. Des tensions musculaires exagérées se relâchent. Il en résulte que les muscles, les jointures, les organes internes sont mieux desservis par la circulation, donc moins exposés à la fatigue et à l’usure.</div>
